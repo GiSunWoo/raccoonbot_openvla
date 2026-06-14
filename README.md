@@ -65,7 +65,8 @@
 
 ### Cat 1 — 비숍 픽앤플레이스
 ![cat1_bishop](figures/cat1_bishop.gif)
-<img width="256" height="256" alt="2" src="https://github.com/user-attachments/assets/58576b4d-79c3-4706-ac5f-ace015f571a7" />
+<img width="256" height="256" alt="20" src="https://github.com/user-attachments/assets/81a781d6-1f56-4dab-88d8-7d3032ac457e" />
+
 
 ### Cat 2 — 비숍 Top-down (Pitch)
 ![cat2_bishop](figures/cat2_bishop.gif)
@@ -94,8 +95,7 @@
 성공 에피소드의 place error 분포 (카테고리별):
 
 ![place error](figures/place_err_boxplot.png)
-<img width="1200" height="750" alt="cat_success_rate" src="https://github.com/user-attachments/assets/d4f3ce04-cbbb-48aa-bbe0-f341484b715c" />
-
+<img width="1200" height="750" alt="cat_success_rate" src="https://github.com/user-
 시작/목적지 셀별 성공률:
 
 ![cell heatmap](figures/scenario_success_rate.png)
