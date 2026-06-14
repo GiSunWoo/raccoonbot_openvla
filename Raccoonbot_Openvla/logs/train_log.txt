@@ -1,0 +1,263 @@
+oad.py:180: UserWarning: Setting `save_embedding_layers` to `True` as embedding layers found in
+`target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.75it/s]
+Saved Model Checkpoint for Step 5000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lor
+a-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 5000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.69it/s]
+Saved Model Checkpoint for Step 5000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lor
+a-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 5000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.92it/s]
+Saved Model Checkpoint for Step 5000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lor
+a-r32+dropout-0.0--chess-full--image_aug
+ 17%|█▋        | 5001/30000 [3:16:43<4433:27:33, 638.44s/it]Saving Model Checkpoint for Step 500
+0
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.76it/s]
+Saved Model Checkpoint for Step 5000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lor
+a-r32+dropout-0.0--chess-full--image_aug
+ 33%|███▎      | 10000/30000 [6:22:23<20:10:37,  3.63s/it]Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.60it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.98it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.92it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+ 33%|███▎      | 10001/30000 [6:57:34<3532:20:09, 635.85s/it]Saving Model Checkpoint for Step 10
+000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.89it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+ 50%|█████     | 15000/30000 [9:57:39<7:37:30,  1.83s/it]Saving Model Checkpoint for Step 15000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.71it/s]
+Saved Model Checkpoint for Step 15000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 15000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.89it/s]
+^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[A
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[ASaved Model Checkpoint for Step 15000 at: openvla-runs/o
+penvla-7b+raccoon_chess+b16+lr-0.0005+lora-r32+dropout-0.0--chess-full--image_aug
+Saving Model Checkpoint for Step 15000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.90it/s]
+^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A
+^[[A^[[A^[[A^[[A^[[A^[[A
+
+Saved Model Checkpoint for Step 15000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+ 50%|█████     | 15001/30000 [10:33:04<2660:39:08, 638.60s/it]Saving Model Checkpoint for Step 1
+5000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.95it/s]
+Saved Model Checkpoint for Step 15000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-full--image_aug
+ 61%|██████▏   | 18375/30000 [12:28:24<5:55:33,  1.84s/it]^[[A^[[A^[[A^[[A^[ 62%|██████▏   | 184
+83/30000 [12:31:42<6:02:47,  1.89s/it]^C^C^C
+root@b661fc0792cc:/data/jsw/Raccoonbot_Openvla/oroot@b661fc0792cc:/data/jsw/root@b661fc0792cc:/d
+ata/jsw/Raccoonbot_Openvla/openvla# PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True WANDB_MODE=
+disabled torchrun --standalone --nnodes 1 --nproc-per-node 1   vla-scripts/finetune.py   --vla_p
+ath openvla/openvla-7b   --data_root_dir /data/jsw/Raccoonbot_Openvla/tensorflow_datasets   --da
+taset_name raccoon_chess   --run_root_dir openvla-runs   --lora_rank 32   --batch_size 4   --gra
+d_accumulation_steps 4   --learning_rate 5e-4   --image_aug True   --max_steps 30000   --save_st
+eps 5000   --run_id_note chess-full   2>&1 | tee chess_train.log^C
+root@b661fc0792cc:/data/jsw/Raccoonbot_Openvla/openvla# PYTORCH_CUDA_ALLOC_CONF=expandable_segme
+nts:True WANDB_MODE=disabled torchrun --standalone --nnodes 1 --nproc-per-node 1 vla-scripts/fin
+etune.py --vla_path openvla/openvla-7b --data_root_dir /data/jsw/Raccoonbot_Openvla/tensorflow_d
+atasets --dataset_name raccoon_chess --run_root_dir openvla-runs --lora_rank 32 --batch_size 4 -
+-grad_accumulation_steps 4 --learning_rate 5e-4 --image_aug True --max_steps 30000 --save_steps
+10000 --run_id_note chess-top-k2 2>&1 | tee chess_top_k2_train.log
+[2026-06-12 22:20:09,345] torch.distributed.run: [WARNING] master_addr is only used for static r
+dzv_backend and when rdzv_endpoint is not specified.
+2026-06-12 22:20:12.397395: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow
+ binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the
+ appropriate compiler flags.
+2026-06-12 22:20:13.182884: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warni
+ng: Could not find TensorRT
+Fine-tuning OpenVLA Model `openvla/openvla-7b` on `raccoon_chess`
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  4.33it/s]
+trainable params: 110,828,288 || all params: 7,652,065,472 || trainable%: 1.4483
+2026-06-12 22:20:37.776391: I tensorflow/core/grappler/optimizers/data/replicate_on_split.cc:32]
+ Running replicate on split optimization
+06/12 [22:20:38] INFO     | >> [*] Loading existing        data_utils.py:209
+                          dataset statistics from
+                          /data/jsw/Raccoonbot_Openvla/ten
+                          sorflow_datasets/raccoon_chess/1
+                          .0.0/dataset_statistics_6fa17dc8
+                          e524ed636d71f29893f5b298c1b36803
+                          e5c09633a32b230b7b1e3024.json.
+2026-06-12 22:20:38.367576: I tensorflow/core/grappler/optimizers/data/replicate_on_split.cc:32]
+ Running replicate on split optimization
+
+######################################################################################
+# Loading the following 1 datasets (incl. sampling weight):                         #
+# raccoon_chess: ===========================================================1.000000 #
+######################################################################################
+
+                 INFO     | >> [*] Threads per Dataset: [1]   dataset.py:531
+                 INFO     | >> [*] Reads per Dataset: [1]     dataset.py:532
+                 INFO     | >> [*] Constructing datasets...   dataset.py:535
+2026-06-12 22:20:39.027115: I tensorflow/core/grappler/optimizers/data/replicate_on_split.cc:32]
+ Running replicate on split optimization
+06/12 [22:20:40] INFO     | >> [*] Applying frame transforms  dataset.py:575
+                          on dataset...
+06/12 [22:20:41] INFO     | >> [*] Saved dataset           data_utils.py:294
+                          statistics file at path
+                          openvla-runs/openvla-7b+raccoon_
+                          chess+b16+lr-0.0005+lora-r32+dro
+                          pout-0.0--chess-top-k2--image_au
+                          g/dataset_statistics.json
+wandb: WARNING Metadata is read-only when using pydantic v1.
+  0%|          | 0/30000 [00:00<?, ?it/s]2026-06-12 22:20:41.497205: W tensorflow/core/grappler/
+costs/op_level_cost_estimator.cc:693] Error in PredictCost() for the op: op: "CropAndResize" att
+r { key: "T" value { type: DT_FLOAT } } attr { key: "extrapolation_value" value { f: 0 } } attr
+{ key: "method" value { s: "bilinear" } } inputs { dtype: DT_FLOAT shape { dim { size: 1 } dim {
+ size: 224 } dim { size: 224 } dim { size: -7 } } } inputs { dtype: DT_FLOAT shape { dim { size:
+ -2 } dim { size: 4 } } } inputs { dtype: DT_INT32 shape { dim { size: -2 } } } inputs { dtype:
+DT_INT32 shape { dim { size: 2 } } } device { type: "CPU" vendor: "AuthenticAMD" model: "241" fr
+equency: 2245 num_cores: 128 environment { key: "cpu_instruction_set" value: "AVX SSE, SSE2, SSE
+3, SSSE3, SSE4.1, SSE4.2" } environment { key: "eigen" value: "3.4.90" } l1_cache_size: 32768 l2
+_cache_size: 524288 l3_cache_size: 268435456 memory_size: 268435456 } outputs { dtype: DT_FLOAT
+shape { dim { size: -2 } dim { size: -8 } dim { size: -9 } dim { size: -7 } } }
+2026-06-12 22:20:41.497360: W tensorflow/core/grappler/costs/op_level_cost_estimator.cc:693] Err
+or in PredictCost() for the op: op: "CropAndResize" attr { key: "T" value { type: DT_FLOAT } } a
+ttr { key: "extrapolation_value" value { f: 0 } } attr { key: "method" value { s: "bilinear" } }
+ inputs { dtype: DT_FLOAT shape { dim { size: 1 } dim { size: 224 } dim { size: 224 } dim { size
+: -6 } } } inputs { dtype: DT_FLOAT shape { dim { size: -3 } dim { size: 4 } } } inputs { dtype:
+ DT_INT32 shape { dim { size: -3 } } } inputs { dtype: DT_INT32 shape { dim { size: 2 } } } devi
+ce { type: "CPU" vendor: "AuthenticAMD" model: "241" frequency: 2245 num_cores: 128 environment
+{ key: "cpu_instruction_set" value: "AVX SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2" } environment {
+ key: "eigen" value: "3.4.90" } l1_cache_size: 32768 l2_cache_size: 524288 l3_cache_size: 268435
+456 memory_size: 268435456 } outputs { dtype: DT_FLOAT shape { dim { size: -3 } dim { size: -10
+} dim { size: -11 } dim { size: -6 } } }
+ 33%|███▎      | 10000/30000 [5:04:55<10:03:48,  1.81s/it]Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.94it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.74it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+Saving Model Checkpoint for Step 10000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.96it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+ 33%|███▎      | 10001/30000 [5:39:30<3465:18:12, 623.79s/it]Saving Model Checkpoint for Step 10
+000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.96it/s]
+Saved Model Checkpoint for Step 10000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+ 67%|██████▋   | 20000/30000 [10:55:00<5:03:01,  1.82s/it]Saving Model Checkpoint for Step 20000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.74it/s]
+Saved Model Checkpoint for Step 20000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+Saving Model Checkpoint for Step 20000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.97it/s]
+Saved Model Checkpoint for Step 20000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+Saving Model Checkpoint for Step 20000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.87it/s]
+Saved Model Checkpoint for Step 20000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+ 67%|██████▋   | 20001/30000 [11:30:12<1762:47:05, 634.67s/it]Saving Model Checkpoint for Step 2
+0000
+/usr/local/lib/python3.8/dist-packages/peft/utils/save_and_load.py:180: UserWarning: Setting `sa
+ve_embedding_layers` to `True` as embedding layers found in `target_modules`.
+  warnings.warn("Setting `save_embedding_layers` to `True` as embedding layers found in `target_
+modules`.")
+Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.93it/s]
+Saved Model Checkpoint for Step 20000 at: openvla-runs/openvla-7b+raccoon_chess+b16+lr-0.0005+lo
+ra-r32+dropout-0.0--chess-top-k2--image_aug
+100%|██████████| 30000/30000 [19:15:19<00:00,  1.82s/it]Saving Model Checkpoint for Step 30000
+root@b661fc0792cc:/data/jsw/Raccoonbot_Openvla/openvla# tmux a -t data
+
+
+
+
+
+
+
+ax_steps 30000 --save_steps 10000 --run_id_note chess-top-k2 2>&1 | tee chess_top_
+
+ 4 --grad_accumulation_steps 4 --learning_rate 5e-4 --image_aug True --max_steps 30000 --save_st
+eps 10000 --run_id_note chess-t
+
+ze 4 --grad_accumulation_steps 4 --learning_rate 5e-4 --image_aug True --max_steps 30000 --save_
+steps 10000 --run_id_note chess-top-k2 2>&
