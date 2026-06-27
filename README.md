@@ -1,4 +1,4 @@
-# raccoonbot_openvla
+# Raccoonbot_OpenVLA
 2021741045_JeeSunWoo
 
 # Raccoonbot_Openvla — Chess Pick-and-Place Extension
